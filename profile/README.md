@@ -16,3 +16,5 @@ Just say which information you want to extract and the library will do it for yo
 [![My Skills](https://skillicons.dev/icons?i=discord&s=100)](https://discord.gg/uJN7TYcpNa)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&s=100)](https://www.linkedin.com/company/scrapegraphai/)
 [![My Skills](https://skillicons.dev/icons?i=twitter&s=100)](https://twitter.com/scrapegraphai)
+
+[![Hugging face 🤗](Hugging face 🤗)]([https://pepy.tech/project/scrapegraphai](https://huggingface.co/scrapegraphai))
