@@ -15,6 +15,10 @@ Just say which information you want to extract and the library will do it for yo
 ### Check our Website 
 [ScrapeGraphAI Official website](https://scrapegraphai.com/)
 
+## News 📰
+
+- ScrapegraphAI has now his APIs! Check it out [here](https://scrapegraphai.com)!
+
 ### Official Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord&s=100)](https://discord.gg/uJN7TYcpNa)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&s=100)](https://www.linkedin.com/company/scrapegraphai/)
