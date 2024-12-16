@@ -15,10 +15,19 @@ Just say which information you want to extract and the library will do it for yo
 ### Check our Website 
 [ScrapeGraphAI Official website](https://scrapegraphai.com/)
 
-## News 📰
+## 🔗 ScrapeGraph API & SDKs
+If you are looking for a quick solution to integrate ScrapeGraph in your system, check out our powerful API [here!](https://dashboard.scrapegraphai.com/login)
 
-- ScrapegraphAI has now his APIs! Check it out [here](https://scrapegraphai.com)!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VinciGit00/Scrapegraph-ai/main/docs/assets/api-banner.png" alt="ScrapeGraph API Banner" style="width: 70%;">
+</p>
 
+We offer SDKs in both Python and Node.js, making it easy to integrate into your projects. Check them out below:
+
+| SDK       | Language | GitHub Link                                                                 |
+|-----------|----------|-----------------------------------------------------------------------------|
+| Python SDK | Python   | [scrapegraph-py](https://github.com/ScrapeGraphAI/scrapegraph-sdk/tree/main/scrapegraph-py) |
+| Node.js SDK | Node.js  | [scrapegraph-js](https://github.com/ScrapeGraphAI/scrapegraph-sdk/tree/main/scrapegraph-js) |
 ### Official Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord&s=100)](https://discord.gg/uJN7TYcpNa)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&s=100)](https://www.linkedin.com/company/scrapegraphai/)
