@@ -29,6 +29,8 @@ You can find more informations at the following [link](https://scrapegraphai.com
 - **Low-code Frameworks**: [Pipedream](https://pipedream.com/apps/scrapegraphai), [Bubble](https://bubble.io/plugin/scrapegraphai-1745408893195x213542371433906180), [Zapier](https://zapier.com/apps/scrapegraphai/integrations), [n8n](http://localhost:5001/dashboard), [Dify](https://dify.ai)
 - **MCP server**:  [Link](https://smithery.ai/server/@ScrapeGraphAI/scrapegraph-mcp)
 
+[Check out our manifesto!](https://github.com/ScrapeGraphAI/ScrapeGraphAI-manifesto/tree/main)
+
 ### Official Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord&s=100)](https://discord.gg/uJN7TYcpNa)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&s=100)](https://www.linkedin.com/company/scrapegraphai/)
