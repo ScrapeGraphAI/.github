@@ -8,7 +8,7 @@
 [![Downloads](https://img.shields.io/pepy/dt/scrapegraphai?style=for-the-badge)](https://pepy.tech/project/scrapegraphai)
 [![](https://dcbadge.vercel.app/api/server/gkxQDAjfeX)](https://discord.gg/gkxQDAjfeX)
 
-ScrapeGraphAI is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, MDs etc...).
+ScrapeGraphAI is a web scraping python api that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, MDs etc...).
 
 Just say which information you want to extract and the library will do it for you!
 
