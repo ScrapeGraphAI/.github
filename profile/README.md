@@ -5,7 +5,6 @@
 | [Русский](https://github.com/VinciGit00/Scrapegraph-ai/blob/main/docs/russian.md)
 
 
-[![Downloads](https://img.shields.io/pepy/dt/scrapegraphai?style=for-the-badge)](https://pepy.tech/project/scrapegraphai)
 [![](https://dcbadge.vercel.app/api/server/gkxQDAjfeX)](https://discord.gg/gkxQDAjfeX)
 
 [![API Banner](https://raw.githubusercontent.com/ScrapeGraphAI/.github/main/assets/api_banner.png)](https://dashboard.scrapegraphai.com/login)
