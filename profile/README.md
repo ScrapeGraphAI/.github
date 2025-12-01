@@ -7,8 +7,6 @@
 
 [![](https://dcbadge.vercel.app/api/server/gkxQDAjfeX)](https://discord.gg/gkxQDAjfeX)
 
-[![API Banner](https://raw.githubusercontent.com/ScrapeGraphAI/.github/main/assets/api_banner.png)](https://dashboard.scrapegraphai.com/login)
-
 ScrapeGraphAI is a web scraping python api that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, MDs etc...).
 
 Just say which information you want to extract and the library will do it for you!
