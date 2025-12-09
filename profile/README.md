@@ -34,5 +34,7 @@ You can find more informations at the following [link](https://scrapegraphai.com
 [![My Skills](https://skillicons.dev/icons?i=discord&s=100)](https://discord.gg/uJN7TYcpNa)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&s=100)](https://www.linkedin.com/company/scrapegraphai/)
 [![My Skills](https://skillicons.dev/icons?i=twitter&s=100)](https://twitter.com/scrapegraphai)
+[![My Skills](https://skillicons.dev/icons?i=reddit&s=100)](https://www.reddit.com/r/scrapegraphai/)
+
 
 [Hugging face 🤗](https://huggingface.co/scrapegraphai)
