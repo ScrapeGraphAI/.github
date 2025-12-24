@@ -24,7 +24,7 @@ ScrapeGraphAI offers seamless integration with popular frameworks and tools to e
 
 You can find more informations at the following [link](https://scrapegraphai.com)
 
-**Integrations**:
+**Avaiable Integrations**:
 - **API**: [Documentation](https://docs.scrapegraphai.com/introduction)
 - **SDKs**: [Python](https://docs.scrapegraphai.com/sdks/python), [Node](https://docs.scrapegraphai.com/sdks/javascript) 
 - **LLM Frameworks**: [Langchain](https://docs.scrapegraphai.com/integrations/langchain), [Llama Index](https://docs.scrapegraphai.com/integrations/llamaindex), [Crew.ai](https://docs.scrapegraphai.com/integrations/crewai), [Agno](https://docs.scrapegraphai.com/integrations/agno), [CamelAI](https://github.com/camel-ai/camel)
